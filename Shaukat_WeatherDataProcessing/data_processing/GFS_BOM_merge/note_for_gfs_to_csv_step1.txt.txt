@@ -1,0 +1,2 @@
+Run gfs_to_csv_step1 with python 2.5 by:
+1) Activating sequential_regression
